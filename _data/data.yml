@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      New developer, Civil Engineer by graduation, Reader Enthusiast.
+      Full Stack Developer, Civil Engineer by graduation, Reader Enthusiast.
 
       - Highly adaptable & proactive
       - Fast learner & persistent problem solver
@@ -53,10 +53,6 @@ career-profile:
 
 
 education:
-#    • Graduação: Universidade Federal Fluminense – UFF, Engenharia Civil, Dezembro/2017.
-#    • Graduação: Intercâmbio em University of Liverpool, Engenharia Civil, Set/2014 – Ago/2015. 
-
-
     - degree: BSc in Civil Engineering
       university: Universidade Federal Fluminense
       time: 2012 - 2017
@@ -67,6 +63,11 @@ education:
       details:
 
 experiences:
+    - role: Full Stack Developer
+      time: 2022 - Present
+      company: Moca Tecnologia
+      details: |
+        Development and maintenance of client's systems mostly on RubyOnRails & React
     - role: Freelance Developer
       time: 2022 #- Present
       company: Rio de Janeiro
@@ -99,17 +100,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Golang
+      - name: RubyOnRails
+        level: 90%
+
+      - name: React
+        level: 70%
+
+      - name: JavaScript
         level: 60%
+
+      - name: Golang
+        level: 30%
+
+      - name: PostgreSQL
+        level: 65%
+        
+      - name: Heroku
+        level: 70%
 
       - name: Git
-        level: 60%
-
-      - name: Python
-        level: 40%
-
-      - name: Exilir
-        level: 15%
+        level: 70%              
 
 
 footer: >
