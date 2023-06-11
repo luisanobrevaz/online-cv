@@ -48,7 +48,7 @@ career-profile:
       I'm a full stack developer and engineer!
       I'm passionate about problem solving, TDD and writing clean, readable code!
 
-      I've been developing and maintaing web applications using mainly RubyOnRails, React and PostgreSQL, but I'm always looking forward to learning new technologies!
+      I've been developing and maintaining web applications using mainly RubyOnRails, React and PostgreSQL, but I'm always looking forward to learning new technologies!
 
       - Highly adaptable & proactive
       - Fast learner & persistent problem solver
@@ -73,7 +73,7 @@ experiences:
         - Test Driven Development (TDD)
         - Developing and maintaining scalable REST API backend in Ruby
         - Refactoring legacy code and creating new features from scratch
-        - Developing and maintaining frontend web application using React
+        - Developing and maintaining front-end web application using React
     - role: Freelance Developer
       time: 2022 #- Present
       company: LNVaz
