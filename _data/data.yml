@@ -17,16 +17,16 @@ sidebar:
     citizenship: Brazilian & Portuguese
     website: luisanobrevaz.github.io/online-cv/ #do not add http://
     linkedin: luisanobrevaz
-    xing: 
+    xing:
     github: luisanobrevaz
     telegram: # add your nickname without '@' sign
-    gitlab: 
+    gitlab:
     bitbucket:
-    twitter: 
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: #http://www.africau.edu/images/default/sample.pdf
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: Portuguese
@@ -40,17 +40,19 @@ sidebar:
         link:
 
       - item: Gymnastics
-        link: 
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Full Stack Developer, Civil Engineer by graduation, Reader Enthusiast.
+      I'm a full stack developer and engineer!
+      I'm passionate about problem solving, TDD and writing clean, readable code!
+
+      I've been developing and maintaing web applications using mainly RubyOnRails, React and PostgreSQL, but I'm always looking forward to learning new technologies!
 
       - Highly adaptable & proactive
       - Fast learner & persistent problem solver
-      - Team player & great interpersonal skills 
-
+      - Team player & great interpersonal skills
 
 education:
     - degree: BSc in Civil Engineering
@@ -67,16 +69,26 @@ experiences:
       time: 2022 - Present
       company: Moca Tecnologia
       details: |
-        Development and maintenance of client's systems mostly on RubyOnRails & React
+        Maintenance and development of new features to company's clients using mainly RubyOnRails, React and PostgreSQL:
+        - Test Driven Development (TDD)
+        - Developing and maintaining scalable REST API backend in Ruby
+        - Refactoring legacy code and creating new features from scratch
+        - Developing and maintaining frontend web application using React
     - role: Freelance Developer
       time: 2022 #- Present
-      company: Rio de Janeiro
+      company: LNVaz
       details: |
-        Created a program in Golang to integrate client's internal system and an external ERP (Bling):
-          - Import customers orders from ERP
-          - Export product inventory from internal system
-      
-
+        Creation and maintenance of a Golang program to integrate the client’s internal system and an external ERP (Bling):
+        -  Import customers orders from ERP
+        -  Export product inventory from the internal system
+    - role: Other Experiences
+      time: 2018 - 2022
+      company:
+      details: |
+        I've worked with teams and developed strong interpersonal skills
+        - E-commerce Analyst @ Zona Sul Supermercados: Team leader and responsible for e-commerce business negotiations
+        - Buyer @ Zona Sul Supermercados: Responsible for purchasing dairy products for resale and negotiating with suppliers
+        - Civil Engineer @ Sum Engenharia: Responsible for managing commercial offices renovations
 # projects:
 #     title: Projects
 #     intro: >
@@ -88,13 +100,13 @@ experiences:
 #         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 # publications:
-#     title: 
+#     title:
 #     intro:
 #     papers:
-#       - title: 
-#         link: 
-#         authors: 
-#         conference: 
+#       - title:
+#         link:
+#         authors:
+#         conference:
 
 skills:
     title: Skills &amp; Proficiency
@@ -114,12 +126,12 @@ skills:
 
       - name: PostgreSQL
         level: 65%
-        
+
       - name: Heroku
         level: 70%
 
       - name: Git
-        level: 70%              
+        level: 70%
 
 
 footer: >
