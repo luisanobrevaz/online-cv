@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a full stack developer and engineer!
+      I'm a full stack developer and engineer with focus on backend!
       I'm passionate about problem solving, TDD and writing clean, readable code!
 
       I've been developing and maintaining web applications using mainly RubyOnRails, React and PostgreSQL, but I'm always looking forward to learning new technologies!
@@ -75,7 +75,7 @@ experiences:
         - Refactoring legacy code and creating new features from scratch
         - Developing and maintaining front-end web application using React
     - role: Freelance Developer
-      time: 2022 #- Present
+      time: 2021 - Present
       company: LNVaz
       details: |
         Creation and maintenance of a Golang program to integrate the client’s internal system and an external ERP (Bling):
@@ -115,23 +115,32 @@ skills:
       - name: RubyOnRails
         level: 90%
 
-      - name: React
+      - name: Golang
         level: 70%
 
       - name: JavaScript
-        level: 60%
+        level: 70%
 
-      - name: Golang
-        level: 30%
+      - name: React.js
+        level: 70%
+
+      - name: TDD
+        level: 90%
 
       - name: PostgreSQL
-        level: 65%
+        level: 90%
 
       - name: Heroku
-        level: 70%
+        level: 90%
+
+      - name: Redis
+        level: 80%
+
+      - name: Docker
+        level: 60%
 
       - name: Git
-        level: 70%
+        level: 90%
 
 
 footer: >
